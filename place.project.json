@@ -1,0 +1,27 @@
+{
+    "name": "Phi Test Place",
+    "tree": {
+      "$className": "DataModel",
+  
+      "ReplicatedStorage": {
+        "$className": "ReplicatedStorage",
+  
+        "Phi": {
+          "$path": "src"
+        }
+      },
+  
+      "StarterPlayer": {
+        "$className": "StarterPlayer",
+  
+        "StarterPlayerScripts": {
+          "$className": "StarterPlayerScripts",
+          "$path": "testing"
+        }
+      },
+  
+      "ServerScriptService": {
+        "$className": "ServerScriptService"
+      }
+    }
+  }
